@@ -1,4 +1,4 @@
-Here's a clean and professional `README.md` for your Streamlit app that includes setup instructions with a virtual environment:
+# To run an application 
 
 ---
 
