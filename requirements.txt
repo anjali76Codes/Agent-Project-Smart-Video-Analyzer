@@ -1,0 +1,19 @@
+
+# duckduckgo-search 
+# langchain-community
+# langchain
+# openai 
+# requests
+
+# transformers
+
+
+
+
+
+streamlit - for user interface 
+phidata  - acts as AI agent Framework 
+duckduckgo-search  - online seraching 
+google-generativeai  -  from watching the video to generating the response 
+
+
