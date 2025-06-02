@@ -1,19 +1,5 @@
-
-# duckduckgo-search 
-# langchain-community
-# langchain
-# openai 
-# requests
-
-# transformers
-
-
-
-
-
-streamlit - for user interface 
-phidata  - acts as AI agent Framework 
-duckduckgo-search  - online seraching 
-google-generativeai  -  from watching the video to generating the response 
-
-
+streamlit==1.32.2
+phidata==2.0.1
+duckduckgo-search==3.9.4
+google-generativeai==0.4.1
+python-dotenv==1.0.1
